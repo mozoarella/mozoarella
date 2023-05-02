@@ -7,4 +7,3 @@ Currently working on some personal projects to do with TLS and server certificat
 Slowly but surely getting started on writing content for [my blog](https://dylans.blog), the source is currently on GitLab, but I'll probably move it over at some point. It's currently on Cloudflare Pages, and sadly they don't allow you to change the connected repository yet.  
 
 Also got [my main website](https://dylanmaassen.nl) which I'm quite happy about how well it turned out. It's a little bit inspired by the dialog windows from Stardew Valley. And by a little bit I mean a lotta bit.
-s
